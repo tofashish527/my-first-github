@@ -1,4 +1,8 @@
 div,p{
     margin: auto;
-    background-color: saddlebrown;
+    background-color: rgb(187, 214, 222);
+}
+label{
+    padding: 10px;
+    
 }
